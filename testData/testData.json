@@ -1,0 +1,17 @@
+[
+  {
+    "TestcaseName": "validLogin",
+    "Username": "standard_user",
+    "Password": "secret_sauce"
+  },
+  {
+    "TestcaseName": "invalidLogin",
+    "Username": "invalid",
+    "Password": "invalid"
+  },
+  {
+    "TestcaseName": "emptyPassword",
+    "Username": "standard_user",
+    "Password": ""
+  }
+  ]
